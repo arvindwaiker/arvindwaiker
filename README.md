@@ -6,7 +6,7 @@
 * Architecting enterprise systems and distributed software since 2009
 * 🏛️ Leading architecture for SAP Business Network Asset Collaboration (BNAC)
 * ⚙️ Designing high-scale reactive microservices, multi-region federated identity (IAS / OIDC / mTLS), and collaborative cloud workflows
-* 🚀 Passionate about extreme performance engineering & database optimization (SAP HANA, OpenSearch, Kafka)
+* 🚀 Passionate about performance engineering & database optimization (SAP HANA, OpenSearch, Kafka)
 * 🏗️ Building resilient, maintainable distributed systems without over-engineering
 
 ### 🎯 Core Focus & Architecture
