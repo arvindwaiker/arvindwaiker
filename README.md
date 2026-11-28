@@ -3,17 +3,11 @@
 **Development Architect | Cloud-Native Microservices | Distributed Systems**
 
 ### 👨‍💻 About Me
-* Architecting enterprise systems and distributed software since 2009
-* 🏛️ Leading architecture for SAP Business Network Asset Collaboration (BNAC)
-* ⚙️ Designing high-scale reactive microservices, multi-region federated identity (IAS / OIDC / mTLS), and collaborative cloud workflows
-* 🚀 Passionate about performance engineering & database optimization (SAP HANA, OpenSearch, Kafka)
-* 🏗️ Building resilient, maintainable distributed systems without over-engineering
-
-### 🎯 Core Focus & Architecture
-* **Distributed Backend:** Java, Scala, Spring Boot, Spring WebFlux, Vert.x
-* **Cloud & Messaging:** SAP BTP, Cloud Foundry, Apache Kafka
-* **Data & Storage:** SAP HANA, OpenSearch, Cassandra, Redis, Oracle
-* **Identity & Security:** SAP Cloud Identity Services (IAS), OAuth2, SAML/OIDC, mTLS
+* 💻 Building software since 2009
+* 🏛️ Development Architect at SAP
+* 🏗️ Building resilient, maintainable distributed systems
+* ⚙️ Designing high-scale reactive microservices, distributed systems, collaborative cloud workflows
+* 🚀 Passionate about software architecture, distributed systems, performance engineering & database optimization.
 
 ### 🌐 Connect with me
 * 💼 **LinkedIn:** [linkedin.com/in/arvindwaiker](https://www.linkedin.com/in/arvindwaiker)
